@@ -5,6 +5,9 @@ Comic Collab Open Bug / Feature Tracking
 
 This project is the public project for comiccollab.co.uk, please use this site to request features and submit any bugs you find while using the software
 
+# Public Release
+We are currently still working towards our first publish release of the software version 1.0.0. Until then you can help us shape this software by taking part in the Beta below.
+
 # BETA
 We are currently in an early beta testing phase, if you would like to take part the stable beta release will always be available via https://beta.comiccollab.co.uk/login #
 
