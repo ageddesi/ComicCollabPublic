@@ -1,7 +1,7 @@
 # ComicCollab
 Comic Collab Open Bug / Feature Tracking
 
-[![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/ComicCollab/)
+[![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/ComicCollab/) [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U21Q4HU)
 
 This project is the public project for comiccollab.co.uk, please use this site to request features and submit any bugs you find while using the software
 
