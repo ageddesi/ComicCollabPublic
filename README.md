@@ -15,6 +15,9 @@ As this is beta testing, by taking part please remember that data could be remov
 
 
 # Release Notes
+### Beta 0.3.0 - 07th June 2020
+Release notes coming shortly
+
 ### Beta 0.2.0 - 17th April 2020
 - :new: A user can now be added to a project created by another person but this must be done manually.
 - :new: There is a new chat design implemented
